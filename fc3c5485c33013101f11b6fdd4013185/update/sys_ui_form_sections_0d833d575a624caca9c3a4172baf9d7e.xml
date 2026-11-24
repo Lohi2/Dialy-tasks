@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0d833d575a624caca9c3a4172baf9d7e" sys_domain="global" table="x_1067567_daily_0_daily_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32719a19ed2f4995963b4592ac3c1c5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1067567_daily_0_daily_task" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">0d833d575a624caca9c3a4172baf9d7e</sys_ui_form>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1067567_daily_0_daily_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d833d575a624caca9c3a4172baf9d7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1067567_daily_0_daily_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Daily Tasks" source="x_1067567_daily_0">fc3c5485c33013101f11b6fdd4013185</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Daily Tasks">fc3c5485c33013101f11b6fdd4013185</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0d833d575a624caca9c3a4172baf9d7e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
