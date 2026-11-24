@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="62955057e9de4db494c0a29af77a309c" label="Daily Task" name="x_1067567_daily_0_daily_task" type="collection">
+        <element label="Assigned To" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Description" max_length="4000" name="description" type="multi_two_lines"/>
+        <element default="open" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cancelled" sequence="4" value="cancelled"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="Open" sequence="1" value="open"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="in_progress"/>
+            </choice>
+        </element>
+        <element label="Related Incident" name="related_incident" reference="incident" type="reference"/>
+        <element display="true" label="Task Name" mandatory="true" max_length="100" name="task_name" type="string"/>
+        <element label="Notes" max_length="4000" name="notes" type="multi_two_lines"/>
+        <element label="Due Date" name="due_date" type="glide_date"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" name="number" type="string"/>
+        <element default="moderate" label="Priority" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2 - High" sequence="2" value="high"/>
+                <element inactive_on_update="false" label="4 - Low" sequence="4" value="low"/>
+                <element inactive_on_update="false" label="1 - Critical" sequence="1" value="critical"/>
+                <element inactive_on_update="false" label="3 - Moderate" sequence="3" value="moderate"/>
+            </choice>
+        </element>
+        <element label="Opened At" name="opened_at" type="glide_date_time"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="related_incident"/>
+        </index>
+    </element>
+</database>

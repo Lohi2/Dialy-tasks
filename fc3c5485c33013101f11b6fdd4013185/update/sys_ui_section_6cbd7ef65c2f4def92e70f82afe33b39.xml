@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Daily Task Details" section_id="6cbd7ef65c2f4def92e70f82afe33b39" sys_domain="global" table="x_1067567_daily_0_daily_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>7f99736aa0b245b695fec5f1ee54c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>d3e301e449e0480aa1933a7148d01561</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>599aa12020e64c708f8a721fe2098668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>ae3165cad92847ac953ad8090954a841</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>8483ce853442424d9c956549d332dfb2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>baa3a4fbfdd7427b8729f87c79f2b4eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>fa10c0241dff4d6a84c5a3c8478c7fa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>related_incident</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>4d2186bb94284b2abf18e1dee4c0069e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>e292d29f65924e429247218dbe507ba1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>657ff0578c7e46589c84f0ec86d8c9d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>618a7e09fbbe438a963b201e936d16e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>e743e305e30b48fa94e180facf887a20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notes</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_id>95f1a86853824468b8ef6067c2ba8c82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Daily Task Details" display_value="Daily Task Details" name="x_1067567_daily_0_daily_task" sys_domain="global" view="Default view">6cbd7ef65c2f4def92e70f82afe33b39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Daily Task Details</caption>
+            <header>false</header>
+            <name>x_1067567_daily_0_daily_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 20:51:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6cbd7ef65c2f4def92e70f82afe33b39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1067567_daily_0_daily_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Daily Tasks" source="x_1067567_daily_0">fc3c5485c33013101f11b6fdd4013185</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Daily Tasks">fc3c5485c33013101f11b6fdd4013185</sys_scope>
+            <sys_update_name>sys_ui_section_6cbd7ef65c2f4def92e70f82afe33b39</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 20:51:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
